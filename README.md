@@ -28,7 +28,7 @@ This project was built as a backend portfolio project to demonstrate real-world 
 
 ## Tech Stack
 
-* Java 21
+* Java 25
 * Spring Boot 4.0.6
 * Spring Security
 * JWT / OAuth2 Resource Server
